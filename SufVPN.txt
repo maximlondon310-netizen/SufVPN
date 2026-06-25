@@ -1,7 +1,7 @@
-#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️.
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️ либо напишите в тех.поддержку нажав на значок телеграм.
 #profile-web-page-url: https://t.me/SufVPN_happ
 #profile-title: 🐍SufVPN🐍
-#support-url: https://t.me/SufVPN_happ
+#support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
 
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&security=reality&sni=d.primarymaster.online&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
