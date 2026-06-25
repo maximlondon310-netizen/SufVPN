@@ -4,6 +4,7 @@
 #support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
 
+vless://245d4166-42b9-4d8a-be4d-d466d88a9e26@bryansk.sytes.net:21540?encryption=none&fp=firefox&pbk=HG5pCpGFj2CT4J59fMuTUDLGrfw1VBGDWuvWaBwWfT4&security=reality&sid=594664&sni=www.vk.com&spx=%2Fu07YKvA4EoeaKYB&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%D0%94%D0%BE%D0%BC%20VPN
 vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&security=reality&sni=d.primarymaster.online&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@185.245.40.251:443?type=tcp&security=reality&pbk=YnBpu8Ul3-HHnTEq4YGz6i9uZVQE 6a-fW1LcSs55sDg&fp=firefox&sni=sun6-20.userapi.com&sid=1cc0b0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Нидерланды%20%5B%2ACIDR%5D
