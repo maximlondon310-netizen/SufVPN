@@ -2,7 +2,7 @@
 #profile-web-page-url: https://t.me/SufVPN_happ
 #profile-title: 🐍SufVPN🐍
 #support-url: https://t.me/KeyKuys
-#profile-update-interval: 86400
+#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://a028e3ff-ad8f-424c-bb25-7c05e5d1ff2d@mair.sytes.net:22368?encryption=none&fp=firefox&pbk=h0fWv8UlVA-mwdQ4_4-NL9xdREE1T7qOGwvaBGvWuRA&security=reality&sid=ac71&sni=www.vk.com&type=tcp#🇷🇺Россия
