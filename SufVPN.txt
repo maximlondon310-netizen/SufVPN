@@ -1,13 +1,6 @@
-#announce: ═══════════════════════════════════
-#announce: 🐍🔥  SUFVPN  🔥🐍
-#announce: ═══════════════════════════════════
-#announce: ✅ Нажми на спидометр, чтобы проверить соединение
-#announce: 📊 Меньше ms = лучше | n/a — сервер временно не работает
-#announce: 🔄 Если VPN плохо работает — обнови подписку
-#announce: 📩 Техподдержка: @KeyKuys
-#announce: ═══════════════════════════════════
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️ либо напишите в тех.поддержку нажав на значок телеграм
 #profile-web-page-url: https://t.me/SufVPN_happ
-#profile-title: 🐍 SUFVPN
+#profile-title: 🐍SufVPN🐍
 #support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
 
