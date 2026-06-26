@@ -1,8 +1,8 @@
-#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.‼️Для обхода белых списков (🇱🇻Latvia)‼️
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️ либо напишите в тех.поддержку нажав на значок телеграм.
 #profile-web-page-url: https://t.me/SufVPN_happ
 #profile-title: 🐍SufVPN🐍
 #support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
 
 
-vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?flow=&fp=qq&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&security=reality&sid=4eb166dbed98e63d&sni=max.ru&type=tcp#🇱🇻Latvia
+vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?flow=&fp=qq&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&security=reality&sid=4eb166dbed98e63d&sni=max.ru&type=tcp#🇱🇻LTE #1
