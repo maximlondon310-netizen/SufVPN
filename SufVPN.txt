@@ -3,7 +3,7 @@
 #profile-web-page-url: https://t.me/SufVPN_happ
 #support-url: https://t.me/KeyKuys
 #announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️ либо напишите в тех.поддержку нажав на значок телеграм.
-‼️‼️Обход белых списков - 🇱🇻Latvia‼️‼️
+
 
 vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?flow=xtls-rprx-vision&fp=qq&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&security=reality&sid=a1&sni=max.ru&type=tcp#🇱🇻Latvia
 vless://a028e3ff-ad8f-424c-bb25-7c05e5d1ff2d@mair.sytes.net:22368?encryption=none&fp=firefox&pbk=h0fWv8UlVA-mwdQ4_4-NL9xdREE1T7qOGwvaBGvWuRA&security=reality&sid=ac71&sni=www.vk.com&type=tcp#🇷🇺Россия
