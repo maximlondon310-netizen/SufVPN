@@ -4,6 +4,7 @@
 #support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
 
+vless://9f86189b-b16a-4d7e-ba8c-1c23e9b89def@81.163.23.195:443?encryption=none&security=tls&sni=fastsell.phantom.direct&fp=chrome&type=xhttp&mode=auto&path=%2Fsync%2Fv1%2Fstream&host=fastsell.phantom.direct&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%7D#LTE%20%236.0
 vless://9f86189b-b16a-4d7e-ba8c-1c23e9b89def@fastest.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=Txi_qPsB3cGXWWmw8sCUix10dcPY97lOeKle5eBKsxY&sid=c6f157f60c9d7d5a&type=tcp#LTE%20%231
 vless://9f86189b-b16a-4d7e-ba8c-1c23e9b89def@fastest.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=Sh5wKMCzi5dg0zH6Vn6pSl0WPWC1Q4eVluKQRFm-9Rs&sid=7a1e8ba2ceaee0a5&type=tcp#LTE%20%232
 vless://9f86189b-b16a-4d7e-ba8c-1c23e9b89def@fastest.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=tpLrIFRbgAaHl673OOS-4t3mnFf9O2V_UedV5g3FITQ&sid=7f39b78c0dfbc1b5&type=tcp#LTE%20%233
