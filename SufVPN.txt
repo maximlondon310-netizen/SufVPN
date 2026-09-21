@@ -1,4 +1,4 @@
-8#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️ либо напишите в тех.поддержку нажав на значок телеграм.
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️ либо напишите в тех.поддержку нажав на значок телеграм.
 #profile-web-page-url: https://t.me/SufVPN_happ
 #profile-title: 🐍SufVPN🐍
 #support-url: https://t.me/KeyKuys
@@ -8,10 +8,11 @@
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%E2%AC%87%EF%B8%8F
 
-vless://ff684734-da66-4ed4-b58b-a4575685a21b@178.248.236.7:50443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=r-_zNu0BrD8PgGzg-KQSes06Si83txHWYPH-o8xXihk&sid=a66ffc56b634bd44&type=tcp#%D0%BF%D0%BE%D0%BA%D0%B0%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5%20%D1%8D%D1%82%D0%BE%D1%82%20LTE%201
-vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@selgw.phantom.direct:443?encryption=none&security=reality&sni=selgw.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=10600edc6cfa209e&type=grpc&serviceName=grpc#LTE%20%237.0
-vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@selgw2.phantom.direct:443?encryption=none&security=reality&sni=selgw2.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=ea4c32ff6bb28484&type=grpc&serviceName=grpc#LTE%20%236.0
-vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@con210a.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=con210a.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=d8470032fa976493&type=tcp#LTE%20%232.0
+vless://ff684734-da66-4ed4-b58b-a4575685a21b@178.248.236.7:50443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=r-_zNu0BrD8PgGzg-KQSes06Si83txHWYPH-o8xXihk&sid=a66ffc56b634bd44&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%BF%D0%BE%D0%BA%D0%B0%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5%20%D1%8D%D1%82%D0%BE%D1%82%20LTE%202
+vless://ff684734-da66-4ed4-b58b-a4575685a21b@178.248.236.7:50443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=r-_zNu0BrD8PgGzg-KQSes06Si83txHWYPH-o8xXihk&sid=a66ffc56b634bd44&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%BF%D0%BE%D0%BA%D0%B0%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B9%D1%82%D0%B5%20%D1%8D%D1%82%D0%BE%D1%82%20LTE%201
+vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@selgw.phantom.direct:443?encryption=none&security=reality&sni=selgw.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=10600edc6cfa209e&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%237.0
+vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@selgw2.phantom.direct:443?encryption=none&security=reality&sni=selgw2.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=ea4c32ff6bb28484&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%236.0
+vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@con210a.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=con210a.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=d8470032fa976493&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%232.0
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20WiFi%E2%AC%87%EF%B8%8F
 
