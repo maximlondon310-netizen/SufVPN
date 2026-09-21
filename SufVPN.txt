@@ -4,9 +4,14 @@
 #support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
 
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%E2%AC%87%EF%B8%8F
+
 vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@selgw.phantom.direct:443?encryption=none&security=reality&sni=selgw.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=10600edc6cfa209e&type=grpc&serviceName=grpc#LTE%20%237.0
 vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@selgw2.phantom.direct:443?encryption=none&security=reality&sni=selgw2.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=ea4c32ff6bb28484&type=grpc&serviceName=grpc#LTE%20%236.0
 vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@con210a.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=con210a.phantom.direct&fp=firefox&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=d8470032fa976493&type=tcp#LTE%20%232.0
+
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20WiFi%E2%AC%87%EF%B8%8F
+
 vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@fastus.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastus.phantom.direct&fp=firefox&pbk=NQmcGRwXud-eKj_-x8uXSsFh5O8rwolVleR9deWWgg8&sid=1fdcfa7d929e4fba&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%7C%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%98
 vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@fastch2.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastch2.phantom.direct&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=76dc11867a5c907a&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
 vless://8ecd3706-0258-407a-96f3-e7fdea4a0d14@fastfr.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastfr.phantom.direct&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=f68f32d02dbd5147&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
