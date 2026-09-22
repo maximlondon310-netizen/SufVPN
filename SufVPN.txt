@@ -3,8 +3,6 @@
 #profile-title: 🐍SufVPN🐍
 #support-url: https://t.me/KeyKuys
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1792627200
-#subscription-expire: 1792627200
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%E2%AC%87%EF%B8%8F
 
