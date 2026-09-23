@@ -8,6 +8,7 @@ vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&securit
 
 ///тут обычные сервера 
 
+vless://0455196b-2fa2-4d65-995d-44370c124d4a@senkg.animereze.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=senkg.animereze.site&fp=firefox&pbk=L1R-4vtZhYOrrap1zlIekMoBmrcKscBEs7ikTFd7f2U&sid=6b8bb095363349af&type=tcp#белые%20списки⬇️
 
 ///тут белые списки
 
